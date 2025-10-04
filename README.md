@@ -12,7 +12,9 @@
 - `ZENODO_UPLOAD.md` — инструкция по загрузке на Zenodo и получению `DOI`
 
 **Автор:** Дуплей Максим Игоревич
+
 **ORCID:** https://orcid.org/0009-0007-7605-539X
+
 **GitHub:** https://github.com/QuadDarv1ne/ (репозиторий создаётся вручную)
 
 ---
