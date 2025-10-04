@@ -1,0 +1,14 @@
+{
+  "cff-version": "1.2.0",
+  "message": "If you use this software, please cite it as below.",
+  "title": "Инструменты автоматизации анализа данных в небольших исследованиях (no-code / low-code решения)",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Dupley, Maksim I.",
+      "orcid": "https://orcid.org/0009-0007-7605-539X"
+    }
+  ],
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "date-released": "2025-10-01"
+}

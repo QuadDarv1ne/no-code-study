@@ -1,0 +1,4 @@
+id,text,label
+1,"I found the lecture useful",positive
+2,"Too fast and unclear",negative
+3,"Examples were great",positive

@@ -1,0 +1,3 @@
+Article files (attach the .docx and .pdf versions of the paper here before publishing to Zenodo).
+Filename suggestions:
+- Инструменты автоматизации анализа данных в небольших исследованиях (no-code и low-code решения).docx
