@@ -1,6 +1,7 @@
 # no-code-study
 
 [![DOI](https://zenodo.org/badge/1069650252.svg)](https://doi.org/10.5281/zenodo.17265305)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--7605--539X-green?logo=orcid&logoColor=white)](https://orcid.org/0009-0007-7605-539X)
 
 **Инструменты автоматизации анализа данных в небольших исследованиях** — репозиторий рабочих файлов автора `Дуплей М.И.`
 
